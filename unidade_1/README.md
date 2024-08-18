@@ -9,12 +9,10 @@ Local para postar a atividade da unidade 1.
 
 Acadêmico: Maria Eduarda Krutzsch
 
-### Trabalho Correlato 2
+### Trabalho 2
+[Resumo](resumo_seção_introdução_rv_ra_luan.pdf)
 
-Acadêmico:  
-Comentários:  
-
--  
+Acadêmico: Luan Lavandoski Guarnieri
 
 ### Trabalho Correlato 3
 
