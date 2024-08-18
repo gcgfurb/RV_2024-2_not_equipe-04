@@ -4,10 +4,9 @@ Local para postar a atividade da unidade 1.
 
 ## Avaliação
 
-### Trabalho Correlato 1
-
-Acadêmico:  
-Comentários:  
+### Trabalho 1
+Acadêmico: Maria Eduarda Krutzsch
+Comentários: -
 
 -  
 
