@@ -5,10 +5,9 @@ Local para postar a atividade da unidade 1.
 ## Avaliação
 
 ### Trabalho 1
-Acadêmico: Maria Eduarda Krutzsch
-Comentários: -
+[Resumo](resumo_texto_maria_ed.pdf)
 
--  
+Acadêmico: Maria Eduarda Krutzsch
 
 ### Trabalho Correlato 2
 
