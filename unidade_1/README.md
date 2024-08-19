@@ -20,3 +20,6 @@ Acadêmico: Luan Lavandoski Guarnieri
 
 Acadêmico: Maria Eduarda Krutzsch
 
+[Resumo](Nadir%20José%20Rafagnim_Resumo.pdf)
+
+Acadêmico: Nadir Jose Rafagnim
