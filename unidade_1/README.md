@@ -23,3 +23,7 @@ Acadêmico: Maria Eduarda Krutzsch
 [Resumo](Nadir%20José%20Rafagnim_Resumo.pdf)
 
 Acadêmico: Nadir Jose Rafagnim
+
+[Resumo](Resumo%20-%20Rodrigo%20Kapulka%20Franco.pdf)
+
+Acadêmico: Rodrigo Kapulka Franco
