@@ -1,0 +1,15 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="SetAndLoad">
+			<method name="setHandAndLoad"/>
+			<method name="LoadScene"/>
+			<method name="setHandAndLoad"/>
+			<method name="openURL"/>
+			<method name="LoadScene"/>
+			<method name="openURL"/>
+		</type>
+		<type fullname="RayCastInformation">
+			<method name="set_TouchShowInformation"/>
+		</type>
+	</assembly>
+</linker>

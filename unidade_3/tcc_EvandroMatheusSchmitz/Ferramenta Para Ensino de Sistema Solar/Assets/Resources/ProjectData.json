@@ -1,0 +1,114 @@
+﻿{
+  "informations": [
+    {
+      "key":  0,
+      "title": "Teoria Heliocêntrica",
+      "data": "Teoria que diz que os planetas giram em torno do Sol e não da Terra. Foi proposta pelo filósofo grego Aristarco no séc. III a.C., mas foi desconsiderada na época. Ela explica porque alguns planetas apresentavam uma orbita por vezes retrograda e outros porque nunca eram vistos muito longe do Sol. Foi revivida por Nicolau Copérnico. Johannes Kepler posteriormente descobriu que os planetas realmente orbitam o Sol, mas suas orbitas não são circulares como propunha Copernico, elas eram elípticas. \n\n\nFonte: MOURÃO, Ronaldo Rogério de Freitas. O Livro de Ouro do Universo. 2. ed. Rio de Janeiro: HarperCollins Brasil, 2016. 522 p. \nRIDPATH, Ian. Astronomia. 4. ed. Rio de Janeiro: Zahar, 2014. 299 p. (Guia Ilustrado Zahar). Tradução: Maria Luiza X. de A. Borges."
+    },
+    {
+      "key" : 1,
+      "title": "Teoria Geocêntrica",
+      "data": "Teoria que diz que os planetas giram em torno da Terra e não do Sol. Foi proposta por Ptolomeu, com inspiração nas ideias de Aristóteles. Nesta teoria a Terra se encontra no centro do universo e giram ao redor dela a Lua, Mercúrio, Vênus, Sol, Marte, Júpiter e Saturno, respectivamente. As orbitas dos planetas eram circulares. Durante muito tempo foi considerado como o modelo correto para explicar a organização do céu. \n\n\nFonte: MOURÃO, Ronaldo Rogério de Freitas. O Livro de Ouro do Universo. 2. ed. Rio de Janeiro: HarperCollins Brasil, 2016. 522 p. \nRIDPATH, Ian. Astronomia. 4. ed. Rio de Janeiro: Zahar, 2014. 299 p. (Guia Ilustrado Zahar). Tradução: Maria Luiza X. de A. Borges."
+    },
+    {
+      "key": 2,
+      "title": "Teoria Geocêntrica de Tycho Brahe",
+      "data": "Teoria proposta por Tycho Brahe. É um meio termo entre a teoria Heliocêntrica de Copérnico e a Geocêntrica de Ptolomeu. Brahe nunca aceitou a teoria Heliocêntrica e depois de muitas observações detalhadas do céu noturno propôs esta teoria. Nela a Terra continua sendo o centro, a Lua e o Sol giram em torno dela, mas os outros planetas giram em torno do Sol. \n\n\nFonte: MOURÃO, Ronaldo Rogério de Freitas. O Livro de Ouro do Universo. 2. ed. Rio de Janeiro: HarperCollins Brasil, 2016. 522 p. \nRIDPATH, Ian. Astronomia. 4. ed. Rio de Janeiro: Zahar, 2014. 299 p. (Guia Ilustrado Zahar). Tradução: Maria Luiza X. de A. Borges."
+    },
+    {
+      "key": 3,
+      "title": "Sol",
+      "data": "Diâmetro: 1,4 milhão km\nPeríodo de Rotação (Equatorial): 25 dias terrestres\nTemperatura da Superfície: 5.500°C\nTemperatura do Núcleo:15 milhões°C\n\nInformações: O Sol é uma enorme bola de gás quente (como todas as estrela). Em seu núcleo o elemento hidrogênio é fundido em hélio, uma reação que libera energia que pode ser sentida na forma de luz e calor. O Sol concentra 99% do material so Sistema Solar. Ele não é sólido, sendo que a rotação no seu equador e nas suas regiões polares são diferentes. A gravidade é o que mantém o Sol na sua forma de esfera, uma vez que as reações que o correm no núcleo fazem com que ele se expanda a gravidade faz com que ele se contraia, mantendo a forma e o tamanho que ele possuim atualmente.\n\n\nFonte: RIDPATH, Ian. Astronomia. 4. ed. Rio de Janeiro: Zahar, 2014. 299 p. (Guia Ilustrado Zahar). Tradução: Maria Luiza X. de A. Borges."
+    },
+    {
+      "key": 4,
+      "title": "Mercurio",
+      "data": "Diâmetro: 4.879 km\nPeríodo Orbital: 88 dias terrestres\nPeríodo de Rotação: 59 dias terrestres\nTemperatura da Superfície: -180°C a 430°C\nNúmero de Satélites: 0\n\nInformações: Mercúrio é um mundo seco e o planeta mais próximo do Sol. Possui dias quentes e noites gélidas. Sua atmosfera é fina por conta da sua fraca atração gravitacional, e é composta principalmente por oxigênio, sódio e hélio. \n\n\nFonte: RIDPATH, Ian. Astronomia. 4. ed. Rio de Janeiro: Zahar, 2014. 299 p. (Guia Ilustrado Zahar). Tradução: Maria Luiza X. de A. Borges."
+    },
+    {
+      "key": 5,
+      "title": "Vênus",
+      "data": "Diâmetro: 12.104 km\nPeríodo Orbital: 224,7 dias terrestres\nPeríodo de Rotação: 243 dias terrestres\nTemperatura da Superfície: 464°C\nNúmero de Satélites: 0\n\nInformações: Vênus é muito semelhante a Terra em tamanho e estrutura. Gira em torno de seu próprio eixo muito devagar, por isto um dia em Vênus demora mais que um ano venusiano. A sua rotação é de leste para oeste, ao contrario da maioria dos planetas. Sua atmosfera tem 80 km de profundidade e sua composição é principalmente de gás carbônico. O que é visto de Vênus é sua grossa camada de nuvens de ácido sulfúrico, que refletem 80% da luz solar, mas também absorvem o calor do Sol, tornando-o o planeta mais quente do Sistema Solar. \n\n\nFonte: RIDPATH, Ian. Astronomia. 4. ed. Rio de Janeiro: Zahar, 2014. 299 p. (Guia Ilustrado Zahar). Tradução: Maria Luiza X. de A. Borges."
+    },
+    {
+      "key": 6,
+      "title": "Terra",
+      "data": "Diâmetro: 12.756 km\nPeríodo Orbital: 365,26 dias terrestres\nPeríodo de Rotação: 23,93 horas\nTemperatura da Superfície: 15°C\nNúmero de Satélites: 1\n\nInformações: O maior dos quatro planetas rochosos, e o único em que se sabe que existe vida. Sua superfície está em constante mudança e possui água liquida em abundancia. A atmosfera é rica em nitrogênio e oxigênio e se estende por 500 km acima da superfície. Nas camadas mais baixas da atmosfera o oxigênio sustenta a vida e nas mais altas forma o ozônio que protege a Terra das radiações solares.\n\nSatélites:\nLua: Uma bola rochosa sem vida. É o quinto maior satélite do sistema solar e o único mundo exterior que o ser humano visitou. A atmosfera da Lua é rarefeita, devido a sua baixa gravidade que é um sexto da que a Terra possui. A Lua gira em torno de si mesma, mas por causa do seu tempo de rotação e rotação em torno da Terra serem o mesmo, 27,3 dias, sempre vemos a mesma face da Lua sendo mostrada para a Terra. Por causa da Lua temos as marés e também os eclipses. Os eclipses lunares ocorrem na lua cheia quando a Lua entra  na sombra da Terra. Já os eclipses solares ocorrem na lua nova, quando a Lua fica entre o Sol e a Terra. \n\n\nFonte: RIDPATH, Ian. Astronomia. 4. ed. Rio de Janeiro: Zahar, 2014. 299 p. (Guia Ilustrado Zahar). Tradução: Maria Luiza X. de A. Borges."
+    },
+    {
+      "key": 7,
+      "title": "Marte",
+      "data": "Diâmetro: 6.792 km\nPeríodo Orbital: 687 dias terrestres\nPeríodo de Rotação: 24,62 horas\nTemperatura da Superfície: -125°C a 25°C\nNúmero de Satélites: 2\n\nInformações: Marte possui quase metade do tamanho da Terra. A cor da superfície é predominantemente vermelha devido ao óxido de ferro presente no solo e nas rochas. Marte possui calotas de gelo nos seus polos. Sua atmosfera é fina, mas rica em gás carbônico e a poeira de óxido de ferro lhe confere uma coloração rosada. Em Marte existe água congelada, embora devido ao seu relevo é possível concluir que quando o planeta era mais jovem ele possuia água em estado líquido. Marte é explorada através de sondas espaciais.\n\nSatélites:\nPhobos: O maior satélite de Marte, tem 26,8 km de diâmetro e está a mais de 9.000 km de distância do planeta. Ele orbita Marte em 7 horas e 39 minutos.\nDeimos: Possiu 15 km de diâmetro e está o dobro de distância de Marte do que Phobos. Deimos orbita Marte a cada 30 horas e 18 minutos. \n\n\nFonte: RIDPATH, Ian. Astronomia. 4. ed. Rio de Janeiro: Zahar, 2014. 299 p. (Guia Ilustrado Zahar). Tradução: Maria Luiza X. de A. Borges.\nFonte das Texturas das Luas: NASA/JPL-Caltech."
+    },
+    {
+      "key": 8,
+      "title": "Júpiter",
+      "data": "Diâmetro: 142.984 km\nPeríodo Orbital: 11,86 anos terrestres\nPeríodo de Rotação: 9,93 horas\nTemperatura da Superfície: -110°C\nNúmero de Satélites: 64\n\nInformações: Júpiter é o maior planeta dos sistema solar e a sua composição é em grande parte de hidrogênio. A sua atmosfera também é composta de hidrogênio, e devido a sua rápida rotação e o calor do seu interior podem formar furações e tempestades violentas. A sua composição é a mais próxima do Sol e se Júpiter tivesse cerca de 50 vezes mais hidrogênio, teria se tornado uma estrela. O planeta possui um fino e pouco luminoso sistema de anéis.\n\nSatélites: Júpiter tem vários satélites, mas aqui serão abordados os satélites galileanos, que foram observados por Galileu Galilei em 1610. Os satélites estão em ordem crescente de proximidade a Júpiter.\nIo: Orbita Júpiter a cada 42,5 horas e é um corpo vulcânico, sendo que sua superfície é sempre renovada por erupções.\nEuropa: É menor que a Lua e o menor dos satélites galileanos. Sua superfície é coberta por uma camada de gelo liso.\nGamimedes: Maior satélite do sistema solar, é maior que Plutão e Mercúrio. Tem um núcleo rochoso e um manto superior de gelo.\nCalisto: Segundo maior satélite galileano. É composto por gelo e rochas. Sua superfície plana é marcada com crateras de impacto. \n\n\nFonte: RIDPATH, Ian. Astronomia. 4. ed. Rio de Janeiro: Zahar, 2014. 299 p. (Guia Ilustrado Zahar). Tradução: Maria Luiza X. de A. Borges.\nFonte das Texturas das Luas: NASA/JPL-Caltech."
+    },
+    {
+      "key": 9,
+      "title": "Saturno",
+      "data": "Diâmetro: 120.536 km\nPeríodo Orbital: 29,46 anos terrestres\nPeríodo de Rotação: 10,67 horas\nTemperatura da Superfície: -180°C\nNúmero de Satélites: 62\n\nInformações: Saturno possui um complexo sistema de anéis. Sua composição é principalmente de hidrogênio e hélio. É o segundo maior planeta do sistema solar. Os seus anéis são formados por gelo de água e poeira. Na sua atmosfera a rápida rotação do planeta gera ventos que podem passa de 1000 km/h perto do equador. Tempestade gigantescas são um traço da atmosfera.\n\nSatélites: Saturno possui vários satélites, contudo aqui serão abordados somente dois, que são apresentados em ordem crescente de proximidade com o planeta.\nDione: Orbita dentro do sistema de anéis de Saturno em 2,74 dias. É o quarto maior satélite de Saturno e compartilha sua orbita com outros dois satélites: Helena e Pólux.\nTitã: Possui o tamanho aproximado de Mercúrio. É o único satélite do sistema solar com atmosfera substancial. É coberto por um nevoeiro rico em nitrogênio. \n\n\nFonte: RIDPATH, Ian. Astronomia. 4. ed. Rio de Janeiro: Zahar, 2014. 299 p. (Guia Ilustrado Zahar). Tradução: Maria Luiza X. de A. Borges.\nFonte das Texturas das Luas: NASA/JPL-Caltech."
+    },
+    {
+      "key": 10,
+      "title": "Urano",
+      "data": "Diâmetro: 51.118 km\nPeríodo Orbital: 84 anos terrestres\nPeríodo de Rotação: 17,24 horas\nTemperatura da Superfície: -214°C\nNúmero de Satélites: 27\n\nInformações: Planeta de cor azul-clara, está inclinado a 98° em relação a vertical o que faz o planeta seus satélite e anéis parecem \"deitados\" em relação aos outro planetas. Sua atmosfera é composta por hidrogênio, hélio e metano. Graças a sua inclinação cada hemisfério de Urano passa 42 anos voltado para o Sol. Os anéis de Urano são compostos de pedaços de material rico em carbono.\n\nSatélites: Urano tem vários satélites, mas os cinco principais são, em ordem crescente de proximidade: Miranda, Ariel, Umbriel, Oberon e Titânia. \n\n\nFonte: RIDPATH, Ian. Astronomia. 4. ed. Rio de Janeiro: Zahar, 2014. 299 p. (Guia Ilustrado Zahar). Tradução: Maria Luiza X. de A. Borges.\nFonte das Texturas das Luas: NASA/JPL-Caltech."
+    },
+    {
+      "key": 11,
+      "title": "Netuno",
+      "data": "Diâmetro: 49.532 km\nPeríodo Orbital: 164,8 anos terrestres\nPeríodo de Rotação: 16,11 horas\nTemperatura da Superfície: -200°C\nNúmero de Satélites: 13\n\nInformações: Netuno só foi descoberto em 1846 e tem um coloração azul. Pouco se sabia sobre o planeta até que em 1982 a sonda Voyager 2 sobrevoou o mesmo. A atmosfera de Netuno é composta por hidrogênio, hélio e metano. Netuno possui um sistema de anéis, compostos de fragmentos cujo o material ainda é desconhecido.\n\nSatélites: Netuno possui 13 satélites, mas aqui só será apresentado um deles.\nTritão: Único satélite grande e redondo de Netuno. É gelado e maior que Plutão. \n\n\nFonte: RIDPATH, Ian. Astronomia. 4. ed. Rio de Janeiro: Zahar, 2014. 299 p. (Guia Ilustrado Zahar). Tradução: Maria Luiza X. de A. Borges.\nFonte das Texturas das Luas: NASA/JPL-Caltech."
+    },
+    {
+      "key": 12,
+      "title": "Interior do Sol",
+      "data": "No núcleo ocorrem reações que criam energia, e esta então move-se pelo inteiror do Sol até sair dele.\nCromosfera: Camada irregular de atmosfera acima da fotosfera.\nFotosfera: Superfície visível do Sol.\nZona de convecção (ou convectiva): Região onde a energia é transportada por células de convecção.\nZona Radioativa: Região onde a energia viaja na forma de fótons.\nNúcleo: Onde ocorrem as reações de fusão núclear, hidrogênio transformando-se em hélio. Estas reações geram muita energia. \n\n\nFonte: RIDPATH, Ian. Astronomia. 4. ed. Rio de Janeiro: Zahar, 2014. 299 p. (Guia Ilustrado Zahar). Tradução: Maria Luiza X. de A. Borges."
+    },
+    {
+      "key": 13,
+      "title": "Interior de Mércurio",
+      "data": "É extremamente denso, o que significa que é rico em ferro.\nCrosta: Composta de rocha silicática.\nManto: Composto de rocha silicática.\nNúcleo: Composto de ferro e com cerca de 3.600 km de diâmetro. \n\n\nFonte: RIDPATH, Ian. Astronomia. 4. ed. Rio de Janeiro: Zahar, 2014. 299 p. (Guia Ilustrado Zahar). Tradução: Maria Luiza X. de A. Borges."
+    },
+    {
+      "key": 14,
+      "title": "Interior de Vênus",
+      "data": "O que é visível do planeta é sua espessa atmosfera. Abaixo dela existe um mundo denso e rochoso. O material do manto é liberado na superfície como lava vulcânica.\nCrosta: Composta de rocha silicática.\nManto: Composto de rocha derretida.\nNúcleo Externo: Composto de ferro e níquel derretidos.\nNúcleo Interno: Composto de ferro e níquel sólidos. \n\n\nFonte: RIDPATH, Ian. Astronomia. 4. ed. Rio de Janeiro: Zahar, 2014. 299 p. (Guia Ilustrado Zahar). Tradução: Maria Luiza X. de A. Borges."
+    },
+    {
+      "key": 15,
+      "title": "Interior da Terra",
+      "data": "Crosta: Composta de rocha sólida.\nManto: Composto de rocha silicática.\nNúcleo Externo: Composto de ferro-níquel derretidos.\nNúcleo Interno: Composto de ferro-níquel sólidos. \n\n\nFonte: RIDPATH, Ian. Astronomia. 4. ed. Rio de Janeiro: Zahar, 2014. 299 p. (Guia Ilustrado Zahar). Tradução: Maria Luiza X. de A. Borges."
+    },
+    {
+      "key": 16,
+      "title": "Interior de Marte",
+      "data": "Crosta: Composta de rocha.\nManto: Composto de rocha silicática sólida.\nNúcleo: É pequeno e provavelmente composto de ferro. \n\n\nFonte: RIDPATH, Ian. Astronomia. 4. ed. Rio de Janeiro: Zahar, 2014. 299 p. (Guia Ilustrado Zahar). Tradução: Maria Luiza X. de A. Borges."
+    },
+    {
+      "key": 17,
+      "title": "Interior de Júpiter",
+      "data": "Possui um estrutura de camadas, mas não existe um limite definido entre elas.\nAtmosfera: Composta principalmente de hidrogênio e hélio gasosos.\nCamada Externa: Composta de hidrogênio e hélio líquidos.\nCamada Interna: Composta de hidrogênio e hélio metálicos. O nome metálico vem do fato de que devido a alta pressão e temperatura o hidrogênio e hélio se comportam como um metal.\nNúcleo: Composto de rocha, metal e compostos de hidrogênio. \n\n\nFonte: RIDPATH, Ian. Astronomia. 4. ed. Rio de Janeiro: Zahar, 2014. 299 p. (Guia Ilustrado Zahar). Tradução: Maria Luiza X. de A. Borges."
+    },
+    {
+      "key": 18,
+      "title": "Interior de Saturno",
+      "data": "Possui um estrutura de camadas, cujas mudanças são graduais.\nAtmosfera: Composta principalmente de hidrogênio e hélio gasosos.\nCamada Externa: Composta de hidrogênio e hélio líquidos.\nCamada Interna: Composta de hidrogênio e hélio metálico líquidos. O nome metálico vem do fato de que devido a alta pressão e temperatura o hidrogênio e hélio se comportam como um metal.\nNúcleo: Composto de rocha e gelo. \n\n\nFonte: RIDPATH, Ian. Astronomia. 4. ed. Rio de Janeiro: Zahar, 2014. 299 p. (Guia Ilustrado Zahar). Tradução: Maria Luiza X. de A. Borges."
+    },
+    {
+      "key": 19,
+      "title": "Interior de Urano",
+      "data": "A sua atmosfera é a parte visível, abaixo existe um camada de gelos.\nAtmosfera: Composta de hidrogênio, hélio e metano.\nCamada de Gelos: Composta de gelos de água, metano e amônia.\nNúcleo: Composto de rocha e possivelmente de gelo. \n\n\nFonte: RIDPATH, Ian. Astronomia. 4. ed. Rio de Janeiro: Zahar, 2014. 299 p. (Guia Ilustrado Zahar). Tradução: Maria Luiza X. de A. Borges."
+    },
+    {
+      "key": 20,
+      "title": "Interior de Netuno",
+      "data": "A sua atmosfera é a parte visível, abaixo existem camadas que se fundem.\nAtmosfera: Composta de hidrogênio, hélio, metano e outros gases.\nCamada Intermediaria: Composta de metano e gelos de água e amônia.\nNúcleo: Composto de rocha e possivelmente de gelo. \n\n\nFonte: RIDPATH, Ian. Astronomia. 4. ed. Rio de Janeiro: Zahar, 2014. 299 p. (Guia Ilustrado Zahar). Tradução: Maria Luiza X. de A. Borges."
+    },
+    {
+      "key": 21,
+      "title": "Ciclo de Vida de Uma Estrela",
+      "data": "Estrela são formadas por nuvens de gás e geram energia através das fusão de elementos. Muitos dos aspectos de vida de uma estrela são regidos pela sua massa.\n\nEstágios da vida de uma estrela:\nProtoestrela: Uma nuvem de gás a poeira entra em colapso, se achata e o material da nuvem é sugado para o centro da mesma. Conforme o material vai sendo atraído a protoestrela vai se tornando mais quente e começa a brilhar. Em um determinado momento o núcleo desta formação se torna tão quente e denso que permite que os elementos comecem a se fundir, e assim a protoestrela se torna um estrela.\nSequência Principal: É onde uma estrela vai passar a maior parte de sua vida. O seu brilho é constante e a maior parte das reações que ocorrem em seu núcleo são de fusão de hidrogênio em hélio. O tempo que uma estrela vai ficar na sequência principal depende de sua massa, quanto maior a massa menor é o tempo em que a estrela vai ficar neste estágio. Estrela com a massa do Sol ficam em torno de 10 bilhões de anos na sequência principal.\nEstrelas Gigantes: Quando todo o hidrogênio no núcleo da estrela é usado, o processo de queima vai para a casca da estrela. Isto faz com que ela se torne mais brilhante e expanda as suas camadas externas. O núcleo da estrela passa a fundir hélio no lugar do hidrogênio. Estrela com até 8 massas solares se tornam Gigantes Vermelhas, estrelas com mais massa se tornam Supergigantes Vermelhas.\nNebulosas Planetárias: Formadas por gigantes vermelhas. Conforme o hidrogênio e o hélio vão sendo gastos as camadas externas da estrela se dissipam em envoltórios fumegantes, chamados de nebulosas planetárias. O nome vem pela semelhança com um planeta.\nSupernovas: Formadas a partir de supergigantes vermelhas. Depois que todo o hélio é queima no núcleo, outros elementos vão sendo queimados para dar energia a estrela até ela começar a fundir ferro. A fusão do ferro não gera energia e assim a estrela não pode mais resistir a gravidade, e ela desaba sob a própria gravidade que a despedaça.\nAnã Branca: destino de estrelas com menos de 8 massas solares. Elas são pequenas e difíceis de detectar. Com o passar de milhões anos ela vai esfiar e se tornar uma anã negra.\nEstrela de Nêutrons: Um dos destinos de uma estrela com mais de 8 massas solares. A gravidade do núcleo é tão forte que destrói os átomos da estrela, sendo que tudo que sobra é uma bola composta de nêutrons. Esta bola gira rapidamente e para de se desintegrar quando atinge o tamanho de uma cidade. O campo magnético deste objeto celeste se torna tão forte que canaliza a sua radiação em dois feixes que saem dos seus polos. Em determinados casos quando o polo magnético e rotacional de uma estrela de nêutrons não estão alinhados, seus feixes de radiação giram de forma que ela acende e apaga, dando origem o um Pulsar.\nBuracos Negros: Outro destino de uma estrela com mais de 8 massas solares. Quando o núcleo de uma estrela é muito pesado o seu colapso continua até criar um objeto tão denso e com um gravidade tão poderosa que nem mesmo a luz pode escapar. A gravidade de um buraco negro afeta o espaço a sua volta, mas é difícil de detectá-los. \n\n\nFonte: RIDPATH, Ian. Astronomia. 4. ed. Rio de Janeiro: Zahar, 2014. 299 p. (Guia Ilustrado Zahar). Tradução: Maria Luiza X. de A. Borges."
+    }
+  ]
+}
