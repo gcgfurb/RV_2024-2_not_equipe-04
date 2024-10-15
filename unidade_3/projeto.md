@@ -21,6 +21,11 @@ O projeto acadêmico **"Exibição de Planetas em 3D Utilizando Realidade Aument
   - Evitar travamentos, mesmo em celulares intermediários.
   - A renderização dos planetas e informações deve ocorrer em tempo real sem atrasos perceptíveis.
 
+
+## Protótipos (telas)
+[Pasta de protótipos](./prototipos)
+
+
 ###  Bônus:
 - Fatiar planeta
 - Controlar escala do tamanho dos planetas
