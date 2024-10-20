@@ -25,6 +25,9 @@ O projeto acadêmico **"Exibição de Planetas em 3D Utilizando Realidade Aument
 ## Protótipos (telas)
 [Pasta de protótipos](./prototipos)
 
+## Quadro de atividades
+- Criado quadro no jira. Link: https://furb-rv-not-2024-04.atlassian.net/jira/software/projects/KAN/boards/1
+
 
 ###  Bônus:
 - Fatiar planeta
