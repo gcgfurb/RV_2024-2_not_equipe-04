@@ -27,6 +27,7 @@ O projeto acadêmico **"Exibição de Planetas em 3D Utilizando Realidade Aument
 
 ## Quadro de atividades
 - Criado quadro no jira. Link: https://furb-rv-not-2024-04.atlassian.net/jira/software/projects/KAN/boards/1
+![image](https://github.com/user-attachments/assets/a99279fd-9971-4632-9ecf-72340ec4248e)
 
 
 ###  Bônus:
